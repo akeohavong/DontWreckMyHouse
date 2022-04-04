@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DontWreckMyHouse.UI", "DontWreckMyHouse\DontWreckMyHouse.UI.csproj", "{9EA2DA73-4717-4DDB-AD9A-1E260B5808E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DontWreckMyHouse.Core", "DontWreckMyHouse.Core\DontWreckMyHouse.Core.csproj", "{7C34E9C1-2843-47E5-845F-50E42385EF3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DontWreckMyHouse.BLL", "DontWreckMyHouse.BLL\DontWreckMyHouse.BLL.csproj", "{C4EBFDAD-4228-4B25-8A51-B594900640A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DontWreckMyHouse.DAL", "DontWreckMyHouse.DAL\DontWreckMyHouse.DAL.csproj", "{DF64EF6C-752E-4D2B-835C-5E526A066BCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DontWreckMyHouse.BLL.Tests", "DontWreckMyHouse.BLL.Tests\DontWreckMyHouse.BLL.Tests.csproj", "{F65BB995-08E3-4D35-9D52-B88C8389E327}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DontWreckMyHouse.DAL.Tests", "DontWreckMyHouse.DAL.Tests\DontWreckMyHouse.DAL.Tests.csproj", "{BA5B8122-399D-4791-B049-DD61BC213511}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EA2DA73-4717-4DDB-AD9A-1E260B5808E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EA2DA73-4717-4DDB-AD9A-1E260B5808E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EA2DA73-4717-4DDB-AD9A-1E260B5808E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EA2DA73-4717-4DDB-AD9A-1E260B5808E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C34E9C1-2843-47E5-845F-50E42385EF3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C34E9C1-2843-47E5-845F-50E42385EF3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C34E9C1-2843-47E5-845F-50E42385EF3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C34E9C1-2843-47E5-845F-50E42385EF3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4EBFDAD-4228-4B25-8A51-B594900640A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4EBFDAD-4228-4B25-8A51-B594900640A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4EBFDAD-4228-4B25-8A51-B594900640A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4EBFDAD-4228-4B25-8A51-B594900640A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF64EF6C-752E-4D2B-835C-5E526A066BCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF64EF6C-752E-4D2B-835C-5E526A066BCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF64EF6C-752E-4D2B-835C-5E526A066BCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF64EF6C-752E-4D2B-835C-5E526A066BCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F65BB995-08E3-4D35-9D52-B88C8389E327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F65BB995-08E3-4D35-9D52-B88C8389E327}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F65BB995-08E3-4D35-9D52-B88C8389E327}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F65BB995-08E3-4D35-9D52-B88C8389E327}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA5B8122-399D-4791-B049-DD61BC213511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA5B8122-399D-4791-B049-DD61BC213511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA5B8122-399D-4791-B049-DD61BC213511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA5B8122-399D-4791-B049-DD61BC213511}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CB5E8F2-4872-49FA-85C9-FA7D73785256}
+	EndGlobalSection
+EndGlobal
