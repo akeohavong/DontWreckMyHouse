@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DontWreckMyHouse": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Anou Keohavong\\source\\repos\\DontWreckMyHouse\\DontWreckMyHouse.UI"
+    }
+  }
+}
